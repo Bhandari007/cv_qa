@@ -3,8 +3,7 @@
 # Overview of the Project
 
 # Proposed Architecture
-
-![alt text](image.png)
+![Proposed Architecture](https://github.com/Bhandari007/cv_qa/blob/main/assets/arch.jpeg)
 
 # TechStack
 
