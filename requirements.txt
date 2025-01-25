@@ -2,3 +2,4 @@ chromadb
 fastapi 
 uvicorn
 python-multipart
+google-generativeai
