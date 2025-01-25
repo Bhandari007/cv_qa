@@ -8,11 +8,8 @@
 ![Proposed Architecture](https://github.com/Bhandari007/cv_qa/blob/main/assets/arch.jpeg)
 
 # TechStack
+*chromadb, gemini, streamlit, fastapi*
 
-
-* **dataset**:
-* **chromadb**: *as vector store*
-* **LLM**: *yet to finalize*
 
 
 
