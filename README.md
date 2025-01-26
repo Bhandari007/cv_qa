@@ -6,17 +6,14 @@
 
 # Usage
 Install requirements as:
-1.
 ```
 pip install -r requirements.txt
 ```
 Run the fast api as:
-2.
 ```
 uvicorn app:app --reload
 ```
 Run the streamlit app as:
-3.
 
 ```
 streamlit run st_app.py
