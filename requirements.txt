@@ -3,3 +3,5 @@ fastapi
 uvicorn
 python-multipart
 google-generativeai
+PyPDF2
+streamlit
